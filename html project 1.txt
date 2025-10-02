@@ -1,6 +1,6 @@
 <html>
-
-</head>
+  
+</head> 
 <b> <font color = "Blue" size = "15">Meet the 2025 Eloheh Management Team </font></b> 
 <br>
 <font size = "3"><font family = "Times New Roman", Times, serif> We would like you to meet the leaders of our company. Our leaders embody our core values and are the main decision makers for our business. Each leader holds these values:</font></font>
@@ -15,11 +15,11 @@
 
 </head>
 
-<body>
+<body bgcolor = "gray">
  <ol>
    <li> <b><font size = "6" color = "Red"> Chloe Tayor - CEO </font></b>
     <br>
-     Chloe is the leader of the company with avid experience in the medical industry. She sits a top multiple teams assisting the company with high level business decisions. She has served in the role for <u>10 years</u>.
+     Chloe is the leader of the company with avid experience in the healthcare industry. She sits a top multiple teams assisting the company with high level business decisions. She has served in the role for <u>10 years</u>.
      <br>
      <br>
      <br>
@@ -46,6 +46,16 @@
 <right>
   <img src = "LisaJones.jpg" width = 300 height 250>
 </right>
+<br>
+<br>
+<br>
+<font size = "2"> Our Leaders aslo believe it is important to support the actions and regulations of the World Health Organization. Below is a link to find more information about healthcare:
+  <br>
+  <a href = "https://www.who.int/" target ="_blank"> World Health Organization</a> 
+  <br>
+  <font size = "2"> Eloheh holds the rights to the information displayed on this webpage. A disclaimer link has been provided.
+   <br>
+    <a href = "Disclaimer.pdf">Disclaimer Information</a>
 </body>
 
 </html>
