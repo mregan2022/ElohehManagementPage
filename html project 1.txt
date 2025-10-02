@@ -38,24 +38,34 @@
 <br>
 <br>
 <left>
-  <img src = "ChloeTaylor.jpg" width = 300 height 250>
+  <img src = "ChloeTaylor.jpg" width = 100 height = 150>
 </left>
 <center>
-  <img src = "JoshBrown.jpg" width = 300 height 250>
+  <img src = "JoshBrown.jpg" width = 100 height = 150>
 </center>
 <right>
-  <img src = "LisaJones.jpg" width = 300 height 250>
+  <img src = "LisaJones.jpg" width = 100 height = 150>
 </right>
 <br>
 <br>
 <br>
-<font size = "2"> Our Leaders aslo believe it is important to support the actions and regulations of the World Health Organization. Below is a link to find more information about healthcare:
+<font size = "2"> Our Leaders aslo believe it is important to support the actions and regulations of the World Health Organization. Below is a link to find more information about healthcare:</font>
   <br>
   <a href = "https://www.who.int/" target ="_blank"> World Health Organization</a> 
   <br>
-  <font size = "2"> Eloheh holds the rights to the information displayed on this webpage. A disclaimer link has been provided.
+  <font size = "2"> Eloheh holds the rights to the information displayed on this webpage. A disclaimer link has been provided:</font>
    <br>
     <a href = "Disclaimer.pdf">Disclaimer Information</a>
+    <br>
+     <font size = "2"> To contact an administrator to get in touch with our leaders:</font>
+     <br>
+       <a href = "mailto:regan30@purdue.edu"> Contact Eloheh</a>
+<br>
+<br>
+<br>
+Last Updated:<script>document.write(document.lastModified);</script>
+
+       
 </body>
 
 </html>
