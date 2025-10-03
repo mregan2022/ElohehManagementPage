@@ -1,7 +1,7 @@
 <html>
   
 </head> 
-<b> <font color = "Blue" size = "15">Meet the 2025 Eloheh Management Team </font></b> 
+<b> <font color = "navy" size = "15">Meet the 2025 Eloheh Management Team </font></b> 
 <br>
 <font size = "3"><font family = "Times New Roman", Times, serif> We would like you to meet the leaders of our company. Our leaders embody our core values and are the main decision makers for our business. Each leader holds these values:</font></font>
 <br>
@@ -15,9 +15,9 @@
 
 </head>
 
-<body bgcolor = "gray">
+<body bgcolor = "cornsilk">
  <ol>
-   <li> <b><font size = "6" color = "Red"> Chloe Tayor - CEO </font></b>
+   <li> <b><font size = "6" color = "lightblue"> Chloe Tayor - CEO </font></b>
     <br>
      Chloe is the leader of the company with avid experience in the healthcare industry. She sits a top multiple teams assisting the company with high level business decisions. She has served in the role for <u>10 years</u>.
      <br>
@@ -28,7 +28,7 @@
      <br>
      <br>
      
-   <li> <b> <font size = "6" color = "Red">
+   <li> <b> <font size = "6" color = "lightblue">
      John Brown - CMO </font></b>
      <br>
      John serves as our <i> Chief Marketing officer</i> as he oversees all the sales and ad promotions of our products and services. He previously worked in other industries gaining valuable experience in marketing. This will be his 2nd year at Eloheh. 
@@ -39,7 +39,7 @@
    <br>
    <br>
    <br>
-   <li> <b> <font size = "6" font color = "Red"> Lisa Jones - CFO </font> </b>
+   <li> <b> <font size = "6" font color = "lightblue"> Lisa Jones - CFO </font> </b>
      <br>
      Lisa is the head of our Finance Department. She oversees the budgeting and financial planning aspect of Eloheh. Lisa previously has advised rival companies with recommendations for potential revenue sources. She has served in this role for <u>5 years</u>. 
      <br>
@@ -78,3 +78,4 @@ Last Updated:<script>document.write(document.lastModified);</script>
    
    
    
+
